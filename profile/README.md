@@ -79,7 +79,7 @@
    ![화면 7](https://github.com/OpenSource8Team/MukGenie-backend-/assets/108183797/c2cf807b-26bb-46e0-a172-75a0be5d0053_small)
 
 
-##팀장
+## 팀장
 | **이승민** |
 
 ## 팀원
