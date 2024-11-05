@@ -15,10 +15,6 @@
 
 시스템 환경 변수에 안드로이드 스튜디오 값을 삽입해줍니다.
 
-## 팀원 구성
-
-| **박주민** | **이승민** | **이재원** | **장우진** |
-
 <br>
 
 ## 1. 개발 환경
@@ -81,3 +77,11 @@
 6. 선택된 메뉴에 대한 유튜브 레시피 영상과 네이버 지도를 통한 음식점 검색 화면
    ![화면 6](https://github.com/OpenSource8Team/MukGenie-backend-/assets/108183797/18b7ac7f-eda6-4837-b1b1-ef5b97ae31dd_small)
    ![화면 7](https://github.com/OpenSource8Team/MukGenie-backend-/assets/108183797/c2cf807b-26bb-46e0-a172-75a0be5d0053_small)
+
+
+##팀장
+| **이승민** |
+
+## 팀원
+
+| **박주민** | **이재원** | **장우진** |
